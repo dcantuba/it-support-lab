@@ -1,5 +1,8 @@
 # IT Support & Networking Basics Lab
 
+## Purpose
+This project was created to build foundational IT support and networking troubleshooting skills using command-line tools.
+
 ## Overview
 This project demonstrates basic network troubleshooting using command-line tools.
 
@@ -24,3 +27,6 @@ This project demonstrates basic network troubleshooting using command-line tools
 - Basic networking concepts (IP address, connectivity)
 - How to troubleshoot internet issues
 - Understanding system network activity
+
+## Note
+Sensitive information such as IP addresses has been masked for security purposes.
