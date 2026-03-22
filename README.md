@@ -6,13 +6,19 @@ This project demonstrates basic network troubleshooting using command-line tools
 ## Commands Used
 
 ### ipconfig
-- Displays network configuration details such as IP address and gateway.
+- Displays network configuration details such as IP address and default gateway.
+
+![ipconfig screenshot](ipconfig-screenshot.png)
 
 ### ping google.com
-- Tests internet connectivity by sending packets to a server.
+- Tests internet connectivity by sending packets to a remote server.
+
+![ping screenshot](ping-screenshot.png)
 
 ### netstat
 - Shows active network connections and listening ports.
+
+![netstat screenshot](netstat-screenshot.png)
 
 ## What I Learned
 - Basic networking concepts (IP address, connectivity)
